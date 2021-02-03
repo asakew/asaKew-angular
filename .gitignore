@@ -33,6 +33,9 @@ speed-measure-plugin*.json
 
 # misc
 /.sass-cache
+*.css.map
+*.sass.map
+*.scss.map
 /connect.lock
 /coverage
 /libpeerconnection.log
